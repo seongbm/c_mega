@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
-
+int main_01(void) {
+	/*
 	int age;
 	age = 10;
 	
@@ -19,7 +19,7 @@ int main(void) {
 	int a_1 = 10, b_1 = 20, c_1 = 30;
 
 
-
+	*/
 
 	return 0;
 }
