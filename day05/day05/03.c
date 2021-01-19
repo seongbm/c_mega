@@ -3,7 +3,7 @@
 #endif
 
 #include<stdio.h>
-int main(void) {
+int main_3(void) {
 	int q1;
 	printf("두 자리의 자연수를 입력하세요:");
 	scanf("%d",&q1); //scanf 는 \n이 안되요ㅠ

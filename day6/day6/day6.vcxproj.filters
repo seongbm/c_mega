@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="02.c">
@@ -30,10 +30,17 @@
     <ClCompile Include="05.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="04.ㅊ">
+    <ClCompile Include="06.c">
       <Filter>소스 파일</Filter>
-    </None>
+    </ClCompile>
+    <ClCompile Include="07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
